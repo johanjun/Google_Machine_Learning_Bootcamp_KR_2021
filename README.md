@@ -5,4 +5,4 @@
 
 ## 2. Certification
 ### 1. GCP Professional Data Engineer Certification
-1. Google Cloud Big Data & Machine Learning Fundamentals
+1. [Google Cloud Big Data & Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
