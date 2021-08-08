@@ -14,7 +14,7 @@
 </br>2.3. Building Batch Data Pipelines on GCP (14h)
 </br>2.4. Building Resilient Streaming Analytics Systems on GCP (13h)
 </br>2.5. Smart Analytics, Machine Learning, and AI on GCP (9h)
-3. [Serverless Data Processing with Dataflow](https://www.coursera.org/specializations/serverless-data-processing-with-dataflow?#courses/)
+3. [Serverless Data Processing with Dataflow (36h)](https://www.coursera.org/specializations/serverless-data-processing-with-dataflow?#courses/)
 </br>3.1. Foundations (4h)
 </br>3.2. Develop Pipelines (21h)
 </br>3.3. Operations (11h)
