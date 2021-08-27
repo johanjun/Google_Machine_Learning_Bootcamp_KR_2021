@@ -1,7 +1,13 @@
 # Google_Machine_Learning_Bootcamp_KR_2021
 
-## 1. Study
-### 1. [Deep Learning Specialization](https://github.com/johanjun/Google_Machine_Learning_Bootcamp_KR_2021/issues/1)
+## 1. Coursera Study
+1. Deep Learning Specialization
+</br>1.1 Neural Networks and Deep Learning
+</br>1.2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+</br>1.3 Structuring Machine Learning Projects
+</br>1.4 Convolutional Neural Networks
+</br>1.5 Sequence Models
+
 
 ## 2. Certification
 ### 1. GCP Professional Data Engineer Certification
